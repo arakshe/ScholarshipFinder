@@ -1,0 +1,12 @@
+
+
+requests~=2.31.0
+selenium~=4.19.0
+bs4~=0.0.2
+flask~=3.0.2
+MarkupSafe~=2.1.5
+beautifulsoup4~=4.12.3
+google-generativeai
+python-dotenv
+gensim
+

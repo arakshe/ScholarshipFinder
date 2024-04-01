@@ -1,0 +1,33 @@
+.component-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.low-income1 {
+  position: absolute;
+  height: 33.24%;
+  width: 87.52%;
+  top: 15.36%;
+  left: 7.11%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 115.4px;
+  height: 35.8px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,149 @@
+.glass-card-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.card1 {
+  position: absolute;
+  top: 89.4px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4.1px 24.45px -1.02px rgba(0, 0, 0, 0.11);
+  backdrop-filter: blur(40.75px);
+  width: 1297.1px;
+  height: 775px;
+}
+.access-scholarships-that {
+  position: absolute;
+  top: 283px;
+  left: 68.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 583px;
+  height: 86px;
+}
+.user-icon-item {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-mistyrose);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 60px;
+  height: 60px;
+}
+.a1,
+.user-icon-item,
+.user-icon1 {
+  position: absolute;
+}
+.a1 {
+  top: 7.5px;
+  left: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26.2px;
+  height: 37.8px;
+}
+.user-icon1 {
+  top: 0;
+  left: 1237.3px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+}
+.glass-card1 {
+  position: absolute;
+  top: 31px;
+  left: 68.7px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  width: 1299.3px;
+  height: 865px;
+}
+.logo-icon-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-pink);
+  width: 20px;
+  height: 20px;
+}
+.image-3-icon {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.logo-child,
+.logo-icon,
+.logo-icon1 {
+  position: absolute;
+  top: 395px;
+  left: 885px;
+  width: 20px;
+  height: 20px;
+}
+.logo-child,
+.logo-icon1 {
+  top: 582px;
+}
+.logo-child {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-pink);
+  width: 91px;
+  height: 91px;
+}
+.image-2-icon {
+  top: 5px;
+  left: 6px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.eduaid1,
+.image-2-icon,
+.logo {
+  position: absolute;
+}
+.eduaid1 {
+  top: 25px;
+  left: 100px;
+  display: flex;
+  align-items: center;
+  width: 171px;
+  height: 40px;
+}
+.logo {
+  top: 163px;
+  left: 892px;
+  width: 271px;
+  height: 91px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-reem-kufi);
+}
+.scholarship-collection {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-poppins);
+}

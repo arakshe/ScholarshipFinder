@@ -1,0 +1,255 @@
+.introducing-co-pilot-child {
+  position: absolute;
+  top: 0;
+  left: -68px;
+  width: 1508px;
+  height: 1024px;
+  object-fit: cover;
+}
+.what-we-know-about-user-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightsteelblue);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 625.9px;
+  height: 331px;
+}
+.heres-what-we {
+  position: absolute;
+  top: 28.6px;
+  left: 28.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 509px;
+  height: 68.5px;
+}
+.component-parent {
+  position: absolute;
+  top: 77px;
+  left: 29px;
+  width: 434.9px;
+  height: 81.8px;
+}
+.what-we-know-about-user {
+  position: absolute;
+  top: 448px;
+  left: 59px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 625.9px;
+  height: 331px;
+}
+.found-scholarships-stats-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 610px;
+  height: 539.3px;
+}
+.these-are-the {
+  position: absolute;
+  top: 59.5px;
+  left: 58.2px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+  width: 316.6px;
+  height: 28.6px;
+}
+.div2,
+.found-across-the,
+.offered,
+.scholarships {
+  position: absolute;
+  top: 136.9px;
+  left: 156.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 205.4px;
+  height: 39.3px;
+}
+.div2,
+.found-across-the,
+.offered {
+  top: 240.5px;
+  left: 136.6px;
+  width: 155.7px;
+}
+.found-across-the,
+.offered {
+  top: 167.9px;
+  left: 159.9px;
+  font-size: var(--font-size-xs);
+  width: 199.1px;
+}
+.offered {
+  top: 274px;
+  left: 106.4px;
+}
+.continue-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: rgba(43, 116, 116, 0.53);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 229.8px;
+  height: 42.9px;
+}
+.continue {
+  position: absolute;
+  top: 8.8px;
+  left: 63.3px;
+  font-weight: 500;
+  display: inline-block;
+  width: 109px;
+  height: 26px;
+}
+.continue-button {
+  position: absolute;
+  top: 432.2px;
+  left: 217.1px;
+  width: 229.8px;
+  height: 42.9px;
+  cursor: pointer;
+  font-size: var(--font-size-lg-5);
+}
+.found-scholarships-stats-inner,
+.found-scholarships-stats-item {
+  position: absolute;
+  top: 245.3px;
+  left: 84.7px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 44px;
+}
+.found-scholarships-stats-inner {
+  top: 235.7px;
+  left: 95.3px;
+  background-color: var(--color-teal-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.found-scholarships-stats-child1,
+.found-scholarships-stats-child2 {
+  position: absolute;
+  top: 148.8px;
+  left: 84.7px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 47.6px;
+}
+.found-scholarships-stats-child2 {
+  top: 143px;
+  left: 95.4px;
+  background-color: var(--color-teal-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 44px;
+}
+.found-scholarships-stats {
+  position: absolute;
+  top: 242px;
+  left: 770.6px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 610px;
+  height: 539.3px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.intro-block-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightsteelblue);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 625.9px;
+  height: 165.5px;
+}
+.introducing-eduaid-let {
+  position: absolute;
+  top: 21.4px;
+  left: 28.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 509px;
+  height: 68.5px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.intro-block {
+  position: absolute;
+  top: 262.2px;
+  left: 59px;
+  width: 625.9px;
+  height: 165.5px;
+}
+.about-us1,
+.contact-us1,
+.home1 {
+  position: absolute;
+  top: 8.3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 58.4px;
+  height: 25.7px;
+}
+.about-us1,
+.contact-us1 {
+  top: 7.9px;
+  left: 85.9px;
+  width: 86.6px;
+}
+.contact-us1 {
+  left: 199.9px;
+  width: 107.4px;
+}
+.nav-bar-item {
+  position: absolute;
+  top: 0;
+  left: 385.9px;
+  border-radius: 13.03px;
+  background-color: var(--color-teal-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 165.8px;
+  height: 42.2px;
+}
+.sign-in1 {
+  position: absolute;
+  top: 8px;
+  left: 436.7px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 65.7px;
+  height: 25.7px;
+}
+.nav-bar1 {
+  position: absolute;
+  top: 34.8px;
+  left: 845px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 551.7px;
+  height: 42.2px;
+  font-size: var(--font-size-lg-5);
+  color: var(--color-darkslateblue-100);
+}
+.introducing-co-pilot {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid-2);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

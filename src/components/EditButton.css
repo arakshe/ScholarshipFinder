@@ -1,0 +1,32 @@
+.edit-button-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+}
+.edit-05-icon1 {
+  position: absolute;
+  height: 61.45%;
+  width: 61.43%;
+  top: 15.36%;
+  right: 23.14%;
+  bottom: 23.18%;
+  left: 15.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.edit-button1 {
+  position: absolute;
+  top: 46px;
+  left: 103px;
+  width: 35px;
+  height: 35.8px;
+}

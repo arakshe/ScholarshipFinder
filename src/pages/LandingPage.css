@@ -1,0 +1,174 @@
+.background-gradient-icon {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  border-radius: 43px;
+  width: 1440px;
+  height: 1026px;
+  object-fit: cover;
+}
+.connect-with-scholarships {
+  margin: 0;
+}
+.eduaid {
+  color: #9657ae;
+}
+.connect-with-scholarships-container {
+  position: absolute;
+  top: 220px;
+  left: 226px;
+  line-height: 109%;
+  font-weight: 600;
+  display: inline-block;
+  width: 949px;
+  height: 195px;
+}
+.generate-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: rgba(43, 116, 116, 0.61);
+  width: 141.9px;
+  height: 70.4px;
+}
+.unlock-opportunities-txt-container {
+  width: 100%;
+}
+.unlock-opportunities {
+  position: absolute;
+  top: 3.8px;
+  left: 15px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 111px;
+  height: 61.4px;
+}
+.generate-button {
+  position: absolute;
+  top: 764.3px;
+  left: 930.7px;
+  width: 141.9px;
+  height: 70.4px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 742.7px;
+  height: 250.7px;
+}
+.tell-me-about {
+  position: absolute;
+  top: 88.3px;
+  left: 127px;
+  font-weight: 500;
+  display: inline-block;
+  width: 480.5px;
+  height: 73.7px;
+}
+.input-text-box,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 742.7px;
+  height: 250.7px;
+}
+.input-text-box {
+  top: 485.4px;
+  left: 329.9px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  font-size: var(--font-size-mid-2);
+  color: #9a9a9a;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 18.46%;
+  width: 7.08%;
+  top: 29.98%;
+  right: 86.74%;
+  bottom: 51.56%;
+  left: 6.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 9.18%;
+  width: 5.07%;
+  top: 40.53%;
+  right: 82.92%;
+  bottom: 50.29%;
+  left: 12.01%;
+}
+.about-us,
+.contact-us,
+.home {
+  position: absolute;
+  top: 8.3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 58.6px;
+  height: 25.7px;
+}
+.about-us,
+.contact-us {
+  top: 7.9px;
+  left: 86.2px;
+  width: 86.8px;
+}
+.contact-us {
+  left: 200.5px;
+  width: 107.7px;
+}
+.nav-bar-child {
+  position: absolute;
+  top: 0;
+  left: 387px;
+  border-radius: 13.03px;
+  background-color: var(--color-teal-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 166.3px;
+  height: 42.2px;
+}
+.sign-in {
+  position: absolute;
+  top: 8px;
+  left: 437.9px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 65.9px;
+  height: 25.7px;
+}
+.nav-bar {
+  position: absolute;
+  top: 34.7px;
+  left: 842px;
+  width: 553.3px;
+  height: 42.2px;
+  text-align: left;
+  font-size: var(--font-size-lg-5);
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: #fdf1e0;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 70px;
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-poppins);
+}

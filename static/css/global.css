@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-reem-kufi: "Reem Kufi";
+
+  /* font sizes */
+  --font-size-lg-5: 18.5px;
+  --font-size-11xl: 30px;
+  --font-size-mid-2: 17.2px;
+  --font-size-base: 16px;
+  --font-size-31xl: 50px;
+  --font-size-16xl: 35px;
+  --font-size-mini: 15px;
+  --font-size-6xl: 25px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-2xs: 11px;
+  --font-size-xs: 12px;
+  --font-size-4xl: 23px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-teal-100: #2b7474;
+  --color-teal-200: rgba(43, 116, 116, 0.57);
+  --color-darkslateblue: #24306e;
+  --color-darkslateblue-100: rgba(36, 48, 110, 0.35);
+  --color-darkslateblue-200: rgba(36, 48, 110, 0.52);
+  --color-black: #000;
+  --color-pink: #e5baba;
+  --color-whitesmoke-100: #f8f7f7;
+  --color-whitesmoke-200: #e2ebeb;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: #dcd7d7;
+  --color-snow: #fdf9f6;
+  --color-gray: rgba(0, 0, 0, 0.23);
+  --color-lightsteelblue: #b6d1fd;
+
+  /* Border radiuses */
+  --br-smi: 13px;
+  --br-sm: 14px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+}

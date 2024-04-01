@@ -1,0 +1,401 @@
+.introducing-co-pilot-child {
+  position: absolute;
+  top: 0;
+  left: -68px;
+  width: 1508px;
+  height: 1024px;
+  object-fit: cover;
+}
+.what-we-know-about-user-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightsteelblue);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 625.9px;
+  height: 331px;
+}
+.heres-what-we {
+  position: absolute;
+  top: 28.6px;
+  left: 28.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 509px;
+  height: 68.5px;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 115.4px;
+  height: 35.8px;
+}
+.low-income1 {
+  position: absolute;
+  top: 5.5px;
+  left: 8.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 101px;
+  height: 11.9px;
+}
+.high-schooler1,
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 115.4px;
+  height: 35.8px;
+}
+.high-schooler1 {
+  top: 5.5px;
+  left: 5.1px;
+  font-weight: 500;
+  display: inline-block;
+  width: 110.3px;
+  height: 11.9px;
+}
+.group-child11,
+.rectangle-parent6 {
+  position: absolute;
+  top: 0;
+  left: 319.5px;
+  width: 115.4px;
+  height: 35.8px;
+}
+.group-child11 {
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 80.4px;
+}
+.gpa-391 {
+  position: absolute;
+  top: calc(50% - 8.6px);
+  left: calc(50% - 31.6px);
+  font-weight: 500;
+  display: inline-block;
+  width: 72.1px;
+  height: 11.9px;
+}
+.group-child12,
+.rectangle-parent7 {
+  position: absolute;
+  top: 45.8px;
+  left: 0;
+  width: 81px;
+  height: 35.8px;
+}
+.group-child12 {
+  top: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 180.9px;
+}
+.minority-background1 {
+  position: absolute;
+  top: 5.5px;
+  left: 8.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 163.8px;
+  height: 11.9px;
+}
+.edit-button-item,
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 126.8px;
+  width: 180.9px;
+  height: 35.8px;
+}
+.edit-button-item {
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 31.8px;
+}
+.edit-05-icon1 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.9px;
+  width: 19.6px;
+  height: 22px;
+  overflow: hidden;
+}
+.edit-button1,
+.group-container {
+  position: absolute;
+  top: 46px;
+  left: 103px;
+  width: 31.8px;
+  height: 35.8px;
+}
+.group-container {
+  top: 77px;
+  left: 29px;
+  width: 434.9px;
+  height: 81.8px;
+  font-size: var(--font-size-mini);
+}
+.what-we-know-about-user {
+  position: absolute;
+  top: 448px;
+  left: 59px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 625.9px;
+  height: 331px;
+}
+.found-scholarships-stats-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 610px;
+  height: 539.3px;
+}
+.these-are-the {
+  position: absolute;
+  top: 59.5px;
+  left: 58.2px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+  width: 316.6px;
+  height: 28.6px;
+}
+.div5,
+.found-across-the,
+.offered,
+.scholarships {
+  position: absolute;
+  top: 136.9px;
+  left: 156.7px;
+  font-weight: 500;
+  display: inline-block;
+  width: 205.4px;
+  height: 39.3px;
+}
+.div5,
+.found-across-the,
+.offered {
+  top: 240.5px;
+  left: 136.6px;
+  width: 155.7px;
+}
+.found-across-the,
+.offered {
+  top: 167.9px;
+  left: 159.9px;
+  font-size: var(--font-size-xs);
+  width: 199.1px;
+}
+.offered {
+  top: 274px;
+  left: 106.4px;
+}
+.found-scholarships-stats-item {
+  position: absolute;
+  top: 432.2px;
+  left: 217.1px;
+  border-radius: var(--br-xl);
+  background-color: rgba(43, 116, 116, 0.53);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 229.8px;
+  height: 42.9px;
+}
+.continue {
+  position: absolute;
+  top: 441px;
+  left: 266.4px;
+  font-size: var(--font-size-lg-5);
+  font-weight: 500;
+  display: inline-block;
+  width: 109px;
+  height: 26px;
+}
+.found-scholarships-stats-child1,
+.found-scholarships-stats-inner {
+  position: absolute;
+  top: 245.3px;
+  left: 84.7px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 44px;
+}
+.found-scholarships-stats-child1 {
+  top: 235.7px;
+  left: 95.3px;
+  background-color: var(--color-teal-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.found-scholarships-stats-child2,
+.found-scholarships-stats-child3 {
+  position: absolute;
+  top: 148.8px;
+  left: 84.7px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 44px;
+  height: 47.6px;
+}
+.found-scholarships-stats-child3 {
+  top: 143px;
+  left: 95.4px;
+  background-color: var(--color-teal-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 44px;
+}
+.found-scholarships-stats {
+  position: absolute;
+  top: 242px;
+  left: 770.6px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 610px;
+  height: 539.3px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.intro-block-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-lightsteelblue);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 625.9px;
+  height: 165.5px;
+}
+.introducing-eduaid-let {
+  position: absolute;
+  top: 21.4px;
+  left: 28.6px;
+  font-weight: 500;
+  display: inline-block;
+  width: 509px;
+  height: 68.5px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.intro-block {
+  position: absolute;
+  top: 262.2px;
+  left: 59px;
+  width: 625.9px;
+  height: 165.5px;
+}
+.about-us1,
+.contact-us1,
+.home1 {
+  position: absolute;
+  top: 8.3px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 58.4px;
+  height: 25.7px;
+}
+.about-us1,
+.contact-us1 {
+  top: 7.9px;
+  left: 85.9px;
+  width: 86.6px;
+}
+.contact-us1 {
+  left: 199.9px;
+  width: 107.4px;
+}
+.nav-bar-item {
+  position: absolute;
+  top: 0;
+  left: 385.9px;
+  border-radius: 13.03px;
+  background-color: var(--color-teal-200);
+  width: 165.8px;
+  height: 42.2px;
+}
+.sign-in1 {
+  position: absolute;
+  top: 8px;
+  left: 436.7px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 65.7px;
+  height: 25.7px;
+}
+.nav-bar1 {
+  position: absolute;
+  top: 34.8px;
+  left: 845px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 551.7px;
+  height: 42.2px;
+  font-size: var(--font-size-lg-5);
+  color: var(--color-darkslateblue);
+}
+.logo-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-pink);
+  width: 91px;
+  height: 91px;
+}
+.image-2-icon2 {
+  top: 5px;
+  left: 6px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.eduaid3,
+.image-2-icon2,
+.logo2 {
+  position: absolute;
+}
+.eduaid3 {
+  top: 25px;
+  left: 94px;
+  display: flex;
+  align-items: center;
+  width: 111px;
+  height: 40px;
+}
+.logo2 {
+  top: 32px;
+  left: 41px;
+  width: 205px;
+  height: 91px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-reem-kufi);
+}
+.introducing-co-pilot {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid-2);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
